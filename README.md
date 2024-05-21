@@ -11,7 +11,7 @@ Simple and intuitive user interface.
 Installation
 To run the War Card Game locally, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/your-username/war-card-game.git
+Clone this repository to your local machine using git clone 
 Open the project in Xcode.
 Build and run the project on a simulator or a physical device.
 How to Play
